@@ -1,0 +1,4 @@
+v1.2
+- Complete refactor of code to make it ready for open sourcing.
+- Added option to identify controllers using the feedback motors, since Xbox One controllers don't show the player's number.
+- Minor fixes.
